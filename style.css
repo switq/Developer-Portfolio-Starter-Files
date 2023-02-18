@@ -6,7 +6,6 @@
     --yellow: #fbe850;
     --yellow-selected: #ddb64c;
     --light: #fff;
-
 }
 
 * {
@@ -48,7 +47,6 @@ h2 {
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
 
 #article {
